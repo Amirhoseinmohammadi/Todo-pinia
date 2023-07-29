@@ -4,6 +4,10 @@ export default defineNuxtConfig({
     css: [
         '@/assets/css/tailwind.css',
       ],
-    
+      buildDir: 'dist',
+      target: 'static',
+      generate: {
+        fallback: true,
+      }
 
 })
