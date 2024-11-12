@@ -12,7 +12,7 @@
   "devDependencies": {
     "@nuxtjs/tailwindcss": "^6.2.0",
     "json-server": "^0.17.1",
-    "nuxt": "3.0.0",
+    "nuxt": "^3.14.159",
     "nuxt-icon": "^0.1.8"
   },
   "dependencies": {
